@@ -1,4 +1,3 @@
-# Global-AI-Job-Analysis
 # Global AI Job Market Analysis Using SAS
 
 ## Business Background
