@@ -129,9 +129,4 @@ The analysis further demonstrates the value of feature engineering techniques su
 
 ---
 
-## Conclusion
-
-This project successfully analyzed the Global AI Job Market dataset using SAS-based preprocessing, feature engineering, and exploratory data analysis techniques. The results highlight that experience level, years of experience, and role progression are the primary drivers of salary and total compensation in the AI workforce.
-
-The project demonstrates how data analytics can support workforce planning, compensation benchmarking, and strategic decision-making within the rapidly evolving global AI job market.
 
