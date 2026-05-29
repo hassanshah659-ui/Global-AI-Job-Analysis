@@ -88,25 +88,30 @@ The analysis explored:
 
 ## Screenshots 
 **Total Compensation**
+
 <img width="832" height="629" alt="image" src="https://github.com/user-attachments/assets/d57d74dd-c812-4c49-833b-71d8f3cf2564" />
 
 **Salary Across Experience Category**
+
 <img width="735" height="540" alt="image" src="https://github.com/user-attachments/assets/f4bff4ed-ed50-48e2-9e3f-ecc051b461f1" />
 
 **Years of Experience and Salary**
+
 <img width="673" height="504" alt="image" src="https://github.com/user-attachments/assets/ed84b994-578d-400f-ac2d-bc2cfc6fd01e" />
 
 
 <img width="779" height="590" alt="image" src="https://github.com/user-attachments/assets/9e979dc8-7f07-464a-8272-7e21bdcd766b" />
 
 **Total Compensation and Experience**
+
 <img width="789" height="600" alt="image" src="https://github.com/user-attachments/assets/de1f2449-ae94-4631-b2f3-3dd4890e6e6c" />
 
 **Total Compensation by Company Size**
+
 <img width="689" height="522" alt="image" src="https://github.com/user-attachments/assets/5c6822be-8f3a-46b8-a42a-607fd8b57472" />
 
-
 **Salary and Remote Work**
+
 <img width="749" height="558" alt="image" src="https://github.com/user-attachments/assets/f394b175-ceb3-4caa-ab87-30da6ac1ff2c" />
 
 
